@@ -4,5 +4,6 @@
 
 # 2019
 - [x] Sapiens
+- [x] Ask More
 - [ ] Leonardo da Vinci - Walter Isaacson
 - [ ] Bad Blood
