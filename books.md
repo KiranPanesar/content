@@ -3,7 +3,8 @@
 - [x] Art of Forgery
 
 # 2019
-- [x] Sapiens
-- [x] Ask More
-- [ ] Leonardo da Vinci - Walter Isaacson
-- [ ] Bad Blood
+- [x] Sapiens: A Brief History of Humankind - Yuval Noah Harari 
+- [x] Ask More - 
+- [x] Leonardo da Vinci - Walter Isaacson
+- [x] The Master Algorithm - Pedro Domingos
+- [ ] Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media - Tarleton Gillespie
