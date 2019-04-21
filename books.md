@@ -7,5 +7,5 @@
 - [x] **Ask More** - Frank Sesno
 - [x] **Leonardo da Vinci** - Walter Isaacson
 - [x] **The Master Algorithm** - Pedro Domingos
-- [ ] **Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media** - Tarleton Gillespie
+- [x] **Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media** - Tarleton Gillespie
 - [ ] **Thinking, Fast and Slow** - Daniel Kahneman
