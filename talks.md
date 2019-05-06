@@ -1,3 +1,4 @@
 - [Inventing on Principle - Bret Victor](https://vimeo.com/36579366)
 - [Office Hours with Michael Seibel](https://www.youtube.com/watch?v=JJ2BWOT4hfs)
 - [Jessica Livingston - How to Build the Future](https://www.youtube.com/watch?v=nFOC-cgIWaY)
+- [Find, Vet and Close the Best Product Managers](https://www.youtube.com/watch?v=MoQk-iHJjEE)
